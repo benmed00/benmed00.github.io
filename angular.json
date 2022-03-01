@@ -158,6 +158,7 @@
   },
   "defaultProject": "ngx-toggle-example",
   "cli": {
+    "analytics": "4988d9a0-5d37-4303-b39c-1ebfdbe1a62a",
     "defaultCollection": "@angular-eslint/schematics"
   }
 }

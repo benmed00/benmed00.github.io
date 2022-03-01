@@ -32,7 +32,7 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.2.5
         with:
-          repository-name: bobbyg603/bobbyg603.github.io
+          repository-name: benmed00/benmed00.github.io
           branch: gh-pages
           folder: dist/ngx-toggle-example
           target-folder: ngx-toggle

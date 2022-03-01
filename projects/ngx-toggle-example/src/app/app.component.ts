@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { faCheck, faPaperPlane, faPlane, faSpaceShuttle, faTimes } from '@fortawesome/free-solid-svg-icons';
+import {faCheck,  faPaperPlane,  faPlane,  faSpaceShuttle,  faTimes} from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-root',
