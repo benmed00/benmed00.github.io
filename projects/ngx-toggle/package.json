@@ -2,7 +2,8 @@
     "name": "@benmed00/benmed00.github.io",
     "version": "0.0.1",
     "repository": {
-        "url": "https://github.com/benmed00/benmed00.github.io"
+        "type": "git",
+        "url": "https://github.com/benmed00/benmed00.github.io.git"
     },
     "private": false,
     "publishConfig": {
