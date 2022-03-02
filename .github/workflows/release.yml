@@ -19,9 +19,9 @@ jobs:
         with:
           node-version: 12
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
+        run: npm install --frozen-lockfile
       - name: Build
-        run: yarn build
+        run: npm build
       - name: Release
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
