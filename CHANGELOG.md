@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/benmed00/benmed00.github.io/compare/v1.0.0...v1.0.1) (2022-03-02)
+
+
+### Bug Fixes
+
+* **npm publich:** make the package public ([7b25610](https://github.com/benmed00/benmed00.github.io/commit/7b25610ebbcfa1732ee5a5cf72ce2395ff7fd48a))
+
 # 1.0.0 (2022-03-02)
 
 
